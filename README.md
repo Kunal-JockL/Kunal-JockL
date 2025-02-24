@@ -1,4 +1,4 @@
-### Greeting's Outlander 🤖🤖🤖
+### Greetings Outlander 🤖🤖🤖
 
 - 🔭 I’m currently working on Chess game.
 - 🌱 I’m currently learning Python and Angular.
